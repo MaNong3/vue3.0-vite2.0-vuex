@@ -10,7 +10,6 @@
     </section>
     <div>{{ id }}</div>
     <div>
-      {{commitFn()}}
     </div>
     <div class="buttons">
       <p>
